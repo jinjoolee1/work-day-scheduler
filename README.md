@@ -24,6 +24,7 @@ Acceptance Criteria
 * WHEN I refresh the page
 * THEN the saved events persist
 
-
+Live deployed site:
+https://jinjoolee1.github.io/work-day-scheduler/
 
 Made by Emma Coughlin for University of Minnesota Continuing Education Full-Stack Bootcamp course © 2022
