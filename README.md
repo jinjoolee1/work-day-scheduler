@@ -26,4 +26,4 @@ Acceptance Criteria
 
 
 
-* Made by Emma Coughlin for University of Minnesota Continuing Education Full-Stack Bootcamp course © 2022
+Made by Emma Coughlin for University of Minnesota Continuing Education Full-Stack Bootcamp course © 2022
